@@ -1,5 +1,5 @@
 FROM alpine:3.8
-MAINTAINER pjpires@gmail.com
+MAINTAINER jakub.kruczek@boostcom.no
 
 ENV JAVA_HOME=/usr/lib/jvm/default-jvm/jre
 
